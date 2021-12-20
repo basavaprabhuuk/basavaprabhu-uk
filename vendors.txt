@@ -1,2 +1,2 @@
 Vendor 1
-Vendor 2
+Vendor 3
